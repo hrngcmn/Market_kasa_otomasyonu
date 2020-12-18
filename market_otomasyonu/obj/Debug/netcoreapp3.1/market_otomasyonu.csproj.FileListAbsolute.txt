@@ -1,0 +1,13 @@
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\bin\Debug\netcoreapp3.1\market_otomasyonu.exe
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\bin\Debug\netcoreapp3.1\market_otomasyonu.deps.json
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\bin\Debug\netcoreapp3.1\market_otomasyonu.runtimeconfig.json
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\bin\Debug\netcoreapp3.1\market_otomasyonu.runtimeconfig.dev.json
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\bin\Debug\netcoreapp3.1\market_otomasyonu.dll
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\bin\Debug\netcoreapp3.1\market_otomasyonu.pdb
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\obj\Debug\netcoreapp3.1\market_otomasyonu.csprojAssemblyReference.cache
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\obj\Debug\netcoreapp3.1\market_otomasyonu.AssemblyInfoInputs.cache
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\obj\Debug\netcoreapp3.1\market_otomasyonu.AssemblyInfo.cs
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\obj\Debug\netcoreapp3.1\market_otomasyonu.csproj.CoreCompileInputs.cache
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\obj\Debug\netcoreapp3.1\market_otomasyonu.dll
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\obj\Debug\netcoreapp3.1\market_otomasyonu.pdb
+D:\c# githuba atılacaklar\market_otom\market_otomasyonu\market_otomasyonu\obj\Debug\netcoreapp3.1\market_otomasyonu.genruntimeconfig.cache
